@@ -1,0 +1,11 @@
+C:\Dev\PlayGround\JavaScript Fundementals\ExcelGen\ExcelGen\bin\Debug\ExcelGen.exe.config
+C:\Dev\PlayGround\JavaScript Fundementals\ExcelGen\ExcelGen\bin\Debug\ExcelGen.exe
+C:\Dev\PlayGround\JavaScript Fundementals\ExcelGen\ExcelGen\bin\Debug\ExcelGen.pdb
+C:\Dev\PlayGround\JavaScript Fundementals\ExcelGen\ExcelGen\bin\Debug\EPPlus.dll
+C:\Dev\PlayGround\JavaScript Fundementals\ExcelGen\ExcelGen\bin\Debug\EPPlus.xml
+C:\Dev\PlayGround\JavaScript Fundementals\ExcelGen\ExcelGen\obj\Debug\ExcelGen.csprojResolveAssemblyReference.cache
+C:\Dev\PlayGround\JavaScript Fundementals\ExcelGen\ExcelGen\obj\Debug\ExcelGen.exe
+C:\Dev\PlayGround\JavaScript Fundementals\ExcelGen\ExcelGen\obj\Debug\ExcelGen.pdb
+C:\Dev\POC Excel Writer\ExcelGen\ExcelGen\bin\Debug\ExcelGen.exe.config
+C:\Dev\POC Excel Writer\ExcelGen\ExcelGen\obj\Debug\ExcelGen.exe
+C:\Dev\POC Excel Writer\ExcelGen\ExcelGen\obj\Debug\ExcelGen.pdb
