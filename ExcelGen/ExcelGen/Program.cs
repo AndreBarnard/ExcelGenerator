@@ -18,7 +18,7 @@ namespace ExcelGen
             if (!outputDir.Exists) throw new Exception("outputDir does not exist!");
 
             Console.WriteLine("Running sample");
-            string output =  createExcelFile(outputDir);
+            string output =  CreateExcelFile(outputDir);
 
             Console.WriteLine("Sample 1 created: {0}", output);
             Console.WriteLine();
@@ -26,7 +26,7 @@ namespace ExcelGen
             Console.ReadLine();
         }
 
-        private static string createExcelFile(DirectoryInfo outputDir)
+        private static string CreateExcelFile(DirectoryInfo outputDir)
         {
             FileInfo newFile = new FileInfo(outputDir.FullName + @"\sample1.xlsx");
             if (newFile.Exists)
